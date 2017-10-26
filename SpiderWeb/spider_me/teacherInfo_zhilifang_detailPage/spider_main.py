@@ -48,8 +48,6 @@ class SpiderMain(object):
         print(count - 1)
 
 if __name__ == "__main__":
-    #queries = {"高明, 华东师范大学", "金澈清, 华东师范大学"}
-    #queryFile = open("xwbaxx_xlbs.txt", 'r', encoding='utf-8')
     queryFile = open("in.txt", 'r', encoding='utf-8')
     urls = set()
     for query in queryFile:
