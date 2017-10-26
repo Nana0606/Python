@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+金澈清
+编辑
+锁定
+
+
+
+金澈清，1977年出生，华东师范大学教授，博士生导师。
+
+
+
+
+中文名
+
+金澈清
+
+国    籍
+
+中国
+
+民    族
+
+汉族
+
+
+出生日期
+
+1977年
+
+职    业
+
+教师
+
+毕业院校
+
+复旦大学
+
+
+
+
+目录
+
+
+
+1
+个人简介
+
+
+▪
+个人成就
+
+
+▪
+研究兴趣
+
+
+▪
+教育背景
+
+
+2
+主要科研成果
+
+
+3
+主要论文
+
+
+
+
+
+
+
+
+
+
+金澈清个人简介
+编辑
+
+
+
+
+
+
+金澈清个人成就
+
+金澈清于1999和2002年在浙江大学分别获学士和硕士学位，2005年在复旦大学获得计算机软件与理论专业博士学位。2005年7月至2008年9月间曾工作于华东理工大学，并曾于2003年12月至2004年5月和2007年12月至2008年2月分别在香港大学和香港中文大学短期访学。2012年被聘为教授、博士生导师。在2003 年12 月至2004 年5 月期间，曾于香港大学电子商务研究所担任研究助理职务，研究ETL 技术；在2007年12 月至2008 年2 月期间，曾于香港中文大学系统工程与工程管理系做访问学者，研究不确定数据管理技术。主要研究兴趣包括数据流管理、不确定数据管理、基于位置的服务、数据质量等，已经发表40多篇学术论文，包括VLDB、ICDE、CIKM、VLDB J.、Information Sciences和KAIS等国际会议和期刊上。2009年，指导学生获得APWEB/WAIM 2009 国际会议的最佳学生论文奖；2011年，获得WAIM 2011国际会议的最佳论文提名奖。[1] 
+
+
+
+
+
+金澈清研究兴趣
+
+数据流管理、基于位置的服务、不确定数据管理、数据质量和数据库基准评测
+
+
+
+
+金澈清教育背景
+
+1995 至1997 年就读于浙江大学竺可桢学院，分别于1999 年和2002 年于浙江大学获得计算机应用专业的工学学士学位和工学硕士学位，2005 年在复旦大学获得计算机软件与理论专业的理学博士学位[2] 
+
+
+
+
+
+金澈清主要科研成果
+编辑
+
+1.数据质量管理中的完整性约束关键技术研究. 国际自然科学基金面上项目，No.61370101，（2014-2017）责任人
+2. 面向领域应用的大数据基准研究，上海市教委科研创新项目重点项目，No. 14ZZ045，（2014-2016）责任人
+3. 海量信息错误自动检测与修复的理论和技术研究，973项目，No. 2012CB316203，（2012-2016）
+4. 跨场景多定位系统环境下的移动对象数据管理，国家自然科学基金面上项目，No. 61070052，(2011-2013) 责任人
+5. 不确定数据管理的理论与关键技术，国家自然科学基金重点项目，No. 60933001，(2010-2013)
+6. 面向概率数据流的聚集查询处理技术，国家自然科学基金青年项目，No.60803020，(2009-2011) 责任人
+7. 面向不确定数据的在线查询技术，教育部博士点新教师基金项目，No. 200802511010，（2009-2011）责任人
+8. 面向复杂环境的LBS关键技术研究. 华东师范大学创新基金项目 (2010-2011) 责任人[1] 
+
+
+
+
+
+金澈清主要论文
+编辑
+
+学术期刊
+1.金澈清，钱卫宁，周敏奇，周傲英. 数据管理系统评测基准：从传统数据库到新兴大数据. 计算机学报，2014
+2. 高明，金澈清，钱卫宁，王晓玲，周傲英*，面向微博系统的个性化实时推荐，计算机学报，37(4)，2014
+3. Ming Gao,Cheqing Jin, Weining Qian, Xueqing Gong.Real-time and Personalized Search over a Microblogging System. The Computer Journal (in press)
+4. Chunsheng Li, Jie Chen,Cheqing Jin*, Rong Zhang, Aoying Zhou. MR-tree: an Efficient index for MapReduce. International Journal of Communication Systems (in press)
+5.Cheqing Jin, Jeffrey Xu Yu, Aoying Zhou, Feng Cao.Efficient Clustering of Uncertain Data Streams, Knowledge & Information Systems: An International Journal(KAIS Journal) (in press)
+6. 张敬伟,金澈清, 林煜明, 周傲英. 基于对象异常频度的数据流阈值查询. 计算机学报, 36(8):1602-1615
+7.Cheqing Jin, Jingwei Zhang, Aoying Zhou. Continuous ranking query on uncertain streams. Frontiers of computer science, 6(6):686-699, 2012.
+8. 宫学庆，金澈清，王晓玲，张蓉，周傲英. 数据密集型科学与工程：需求和挑战. 计算机学报, 35(8):1-16, 2012
+9. 张旭‚ 何向南‚金澈清‚ 周傲英. 面向不确定图的k最近邻查询. 计算机研究与发展‚ 2011(10) (NDBC 2011)
+10. 周傲英‚ 杨斌‚金澈清‚ 马强. 基于位置的服务：架构与进展. 计算机学报‚ 2011(7)
+11.Cheqing Jin‚ Minqi Zhou‚ Aoying Zhou. Computing Rarity on Uncertain Data. Science China‚ Inf. Sci. 54(10):2028-2039‚ 2011
+12. 张一桢‚金澈清‚ 胡颢继‚ 周傲英. BFSQ：处理空间成员查询的方法. 计算机科学与探索‚ 2010 (8)
+13.Cheqing Jin‚ Ke Yi‚ Lei Chen‚ Jeffrey Xu Yu‚ Xuemin Lin. Sliding-window Top-k Queries on Uncertain Streams. VLDB Journal‚ 2010
+14. 周傲英,金澈清. 异构环境下的移动对象数据管理. 中国计算机学会通讯. 6(5), 2010
+15. 张晨,金澈清, 周傲英. 一种不确定数据流聚类算法. 软件学报, 21(4):24-137, 2010
+16. 高明‚金澈清‚王晓玲‚周傲英. 世系管理技术研究综述. 计算机学报‚ 2010‚3
+17. 韩韬，郭卫斌，金澈清. 基于层次模型的kNN查询算法. 华东理工大学学报（自然科学版）, 2010, 3
+18. 许晓峰‚金澈清‚高明‚周傲英. 面向大型数据集合的关键分类查找算法. 计算机研究与发展(增刊)‚ 2009‚ 10
+19.Cheqing Jin‚ Bolin Ding‚ Jeffrey Xu Yu. Making filters smart in distributed data stream environments. Information Sciences (Elsevier). 179(9):1348-1361‚ 2009
+20. 周傲英‚金澈清‚王国仁‚李建中. 不确定性数据管理技术研究综述. 计算机学报. 32(1):1-16‚ 2009 (通讯作者)
+21.金澈清‚钱卫宁‚宫学庆. 不确定性数据流管理技术. 中国计算机学会通讯. 5(4):37-44‚ 2009
+22. 高明‚金澈清‚王晓玲. 不确定数据的世系管理. 中国计算机学会通讯. 5(4):14-20‚ 2009
+23.金澈清，赵福通, 郭卫斌. 一种面向空间数据的聚集查询方法. 华东理工大学学报（自然科学版），2009， 1
+24. Aoying Zhou‚ Feng Cao‚ Weining Qian‚Cheqing Jin. Tracking clusters in evolving data streams over sliding windows. In Knowledge & Information Systems: An International Journal(KAIS Journal)‚ 15(2):181-214‚ 2008. (SCIE)
+25.Cheqing Jin‚ Aoying Zhou‚ Jeffrey Xu Yu‚ Joshua Zhexue Huang‚ Feng Cao. Adaptive scheduling for shared window joins over data streams. Frontiers of Computer Science in China‚ 01(04)‚ 2007 (EI)
+26.金澈清‚ 崇志宏‚ 周傲英. 一种实时监控最近邻的近似算法. 计算机研究与探索. 01(02):146-159‚ 2007　　27.金澈清‚ 钱卫宁‚ 周傲英. 流数据分析与管理综述. 软件学报‚ 15(8):1172-1181. 2004
+28. 闫莺‚金澈清‚ 曹锋‚ 汪恒杰‚ 周傲英. 多数据流上共享窗口连接的降载策略. 计算机研究与发展‚ 41(10). 2004.
+学术会议
+1. Zhao Zhang,Cheqing Jin *, Qiangqiang Kang. Reverse k-Ranks queries. VLDB 2014 (to appear)
+2.Cheqing Jin, Rong Zhang, Qiangqiang Kang, Zhao Zhang, Aoying Zhou. Probabilistic Reverse Top-k Queries. DASFAA 2014
+3. Chengcheng Yu, Fan Xia, Qunyan Zhang, Haixin Ma, Weining Qian, Minqi Zhou,Cheqing Jin, Aoying Zhou. BSMA-Gen: A Parallel Synthetic Data Generator for Social Media Timeline Structures (demo). DASFAA 2014　　4.Zhao Zhang, Qiangqiang Kang,Cheqing Jin, Aoying Zhou: Bichromatic Reverse Ranking Query in Two Dimensions. ADMA (2) 2013: 348-359
+5. Ming Gao,Cheqing Jin, Wei Wang, Xuemin Lin, Aoying Zhou. Similarity query processing for probabilistic sets. ICDE 2013
+6. Yao Zhou, Leilei Jin,Cheqing Jin, Aoying Zhou. FIMO: A Novel WiFi Localization Method. APWEB 2013.
+7. Chunsheng Li, Jie Chen,Cheqing Jin. An efficient index for Map-Reduce. ScalCom 2012.
+8. Jingwei Zhang,Cheqing Jin, Yimin Lin, Xueqing Gong. Forum data extraction without explicit rules. SCA 2012
+9. Ming Gao,Cheqing Jin, Weining Qian, Xueqing Gong. Real-time search over a microblogging system. SCA 2012
+10. Jie Chen,Cheqing Jin, Rong Zhang, Aoying Zhou. A learnng method for entity matching. QDB 2012
+11. 张一桢，金澈清，周傲英. 基于图模型的限制性路径查询. NDBC 2012
+12.Cheqing Jin‚ Yizhen Zhang‚ Aoying Zhou. Getting critical categories of a data set. WAIM 2011
+13. 何向南‚ 周遥‚ 张一桢‚金澈清‚ 周傲英. 室内移动对象管理的原型系统 (demo). NDBC 2011
+14. Yi Wang‚Cheqing Jin‚ Minqi Zhou‚ Aoying Zhou. An SVM-based approach to discover MicroRNA precursors in plant genomes. proc. of the first workshop on biologically inspired techniques for data mining @PAKDD 2011.
+15.Cheqing Jin‚ Ming Gao‚ Aoying Zhou. Handling ER-topk Query on Uncertain Streams. DASFAA 2011.
+16. Ming Gao‚ Xiangnan He‚Cheqing Jin‚ Xiaoling Wang‚ Aoying Zhou. APWEB 2010
+17. Weibin Guo‚Cheqing Jin‚ Jianhua Li‚ Gaoqi He. Parallel Lattice Boltzmann Simulation for Fluid Flow on Multicore Platform. ICIE‚ pages 107-110‚ 2009. (EI)
+18. Chen Zhang‚Cheqing Jin‚ Aoying Zhou. Efficiently Clustering Probabilistic Data Streams. In Proc. of APWEB/WAIM‚ 2009. (Best Student Paper Award) (EI)
+19.Cheqing Jin‚ Ke Yi‚ Lei Chen‚ Jeffrey Xu Yu‚ Xuemin Lin. Sliding-window Top-k Queries on Uncertain Streams. In Proceedings of 34th International Conference on Very Large Data Bases (VLDB’2008)‚ pages 301-312‚ 2008
+20. Weibin Guo‚Cheqing Jin‚Jianhua Li‚ High Performance Lattice Boltzmann Algorithms for Fluid Flows. International Symposium on Information Science & Engineering‚ pages 33-37‚ 2008 (EI)
+21.Cheqing Jin‚ Weibin Guo. Efficiently monitoring nearest neighbors to a moving object. In proc. of ADMA‚ 2007 (EI‚ISTP)
+22.Cheqing Jin‚ Weibin Guo‚ Futong Zhao. Getting qualified answers for aggregate queries in spatio-temporal databases. In proc. of APWEB/WAIM‚ pages 220-227‚ 2007 (EI‚ ISTP)
+23. Tian Xia‚Cheqing Jin‚ Xiaofang Zhou‚ Aoying Zhou. Filtering duplicate items over distributed data streams. In proceeding of the 6th international conference on Web-Age Information Management (WAIM’05)‚ pages 779-784‚ 2005. (SCIE/EI)
+24. 盛梅红‚ 胡大斌‚金澈清‚ 周傲英. CDMS：一个新颖的数据挖掘原型系统. 全国数据库学术会议‚ 2005.
+25.Cheqing Jin‚ Aoying Zhou. Distinct Estimate of Set Expressions over sliding windows. In Proceedings of the 6th Asia-Pacific Web conference (APWEB’2005)‚ pages 530-535‚ 2005. (SCIE‚ EI)
+26.Cheqing Jin‚ Fang Xiong‚ Joshua Zhexue Huang‚ Jeffrey Xu Yu‚ Aoying Zhou. Mining frequent items in spatio-temporal databases. Advances in Web-Age Information Management‚ LNCS 3129: 549-558‚ 2004. (SCIE/EI)
+27.Cheqing Jin‚ Weining Qian‚ Chaofeng Sha‚ Jeffrey Xu Yu‚ Aoying Zhou. Dynamically maintaining frequent items over a data stream. In Proceedings of the 12th ACM conference on Information & Knowledge Management (CIKM’2003)‚ pages 287-294‚ 2003 (EI)[1] 
+
+
+参考资料
+
+
+
+1.
+  
+教师主页-金澈清 
+．华东师范大学[引用日期2014-09-26]
+2.
+  
+团队成员-金澈清 
+．华东师范大学可信物联网[引用日期2014-09-26]
+
+
+
+词条标签：
+
+
+行业人物
+
+，
+人物
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+收藏
+查看我的收藏
+
+
+
+0
+有用+1
+已投票
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+周傲英
+编辑
+锁定
+
+
+
+周傲英，1965年5月生，安徽郎溪人。华东师范大学副校长，华东师范大学计算机科学与软件工程学院教授，博士生导师，第七届国务院学科评议组成员。[1] 
+1997年5月晋升为教授，1998年1月起担任计算机软件与理论方向博士生导师。1996年3月至2002年7月担任复旦大学计算机科学系副主任、系主任。2008年2月起在华东师范大学工作，先后担任华东师范大学软件学院副院长，常务副院长，数据科学与工程学院院长，云计算与大数据研究中心主任。2015年7月任华东师范大学研究生院院长。2016年6月起任华东师范大学副校长。[1] 
+主要从事数据管理及应用研究，研究兴趣主要包括Web数据管理、数据密集型计算、内存集群计算、大数据基准测试和性能优化。[1] 
+目前担任中国计算机学会数据库专业委员会副主任、ACM SIGMOD China副主席。担任《计算机学报》副主编，曾经和正在担任《VLDB Journal》、《Journal of Computer Science and Technology》、《Data Science and Engineering》、《World Wide World Journal》等期刊的编委。[1] 
+曾获得国家杰出青年基金，入选长江学者特聘教授。入选上海市科技启明星计划、上海市优秀学科带头人、教育部跨世纪人才等人才计划。获得国务院特殊津贴、霍英东青年教师基金奖励和六次教育部上海市科技进步二等奖。[1] 
+
+
+
+
+
+中文名
+
+周傲英
+
+国    籍
+
+中国
+
+民    族
+
+汉
+
+
+出生地
+
+中国
+
+职    业
+
+教授
+
+毕业院校
+
+成都科技大学
+
+
+
+
+目录
+
+
+
+1
+个人履历
+
+
+2
+研究方向
+
+
+3
+成绩荣誉
+
+
+4
+社会兼职
+
+
+
+
+
+
+
+
+
+
+周傲英个人履历
+编辑
+
+1985年，成都科技大学（现四川大学），获得计算机学士学位。
+1988年，成都科技大学，获得计算机硕士学位。
+1993年，复旦大学计算机科学系，获得计算机软件与理论博士学位。
+曾任复旦大学计算机科学系副主任和系主任，2005年获得“伯克利学者”奖励计划资助在加州伯克利大学访问学习。
+教育部党组经研究并与中共上海市委商得一致，决定任命周傲英同志为中共华东师范大学委员会委员、常委。[2] 
+
+
+
+
+
+周傲英研究方向
+编辑
+
+数据密集型计算的数据管理、分布P2P数据存储和管理、中文Web基础设施、Web搜索与挖掘；数据流与数据挖掘、数据管理服务。
+
+
+
+
+周傲英成绩荣誉
+编辑
+
+周傲英教授先后主持过20多项国家973计划、863计划、国家自然科学基金课题。发表论文140余篇，先后五次获得教育部和上海市科技进步奖。入选上海市青年科技启明星计划、上海市优秀学科带头人计划、教育部跨世纪人才培养计划，获上海高校优秀青年教师荣誉称号、国务院特殊津贴、霍英东教育基金青年教师基金奖励和国家自然科学基金杰出青年基金计划资助课题。
+
+
+
+
+周傲英社会兼职
+编辑
+
+教育部计算机专业教学指导委员会委员、中国计算机学会数据库专业委员会副主任、ACM SIGMOD China副主席。
+担任《计算机学报》副主编，《VLDB Journal》、《World Wide Web Journal》、《Journal of Computer Science and Technology》、《Frontiers of Computer Science in China》、《International Journal of Software and Informatics》和《软件学报》、《计算机研究与发展》、《计算机科学与探索》等期刊的编委。
+多次任SIGMOD、VLDB、ICDE、EDBT以及WWW、 SIGIR、ICDCS等国际会议的PC成员。
+曾任ICDE’2009 程序委员会副主席，ER’2004大会主席，ICDE’2010 程序委员会副主席。
+
+参考资料
+
+
+
+1.
+  
+学校领导 » 周傲英 
+．华东师范大学[引用日期2017-03-18]
+2.
+  
+华师大4位校领导今履新 任友群任常务副书记(正局级) 
+．东方网．2016-6-8[引用日期2016-06-08]
+
+
+
+词条标签：
+
+
+行业人物
+
+，
+教师
+
+，
+人物
+
+，
+书籍
+
+
+
+
+
+
