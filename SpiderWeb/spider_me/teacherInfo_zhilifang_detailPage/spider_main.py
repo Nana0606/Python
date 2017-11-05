@@ -48,7 +48,10 @@ class SpiderMain(object):
         print(count - 1)
 
 if __name__ == "__main__":
-    queryFile = open("in.txt", 'r', encoding='utf-8')
+    #queries = {"高明, 华东师范大学", "金澈清, 华东师范大学"}
+    #queryFile = open("xwbaxx_xlbs.txt", 'r', encoding='utf-8')
+    #queryFile = open("in.txt", 'r', encoding='utf-8')
+    queryFile = open("teacherInfo.txt", 'r', encoding='utf-8')
     urls = set()
     for query in queryFile:
         # 将输入文件中的每一行分割成导师姓名和学校

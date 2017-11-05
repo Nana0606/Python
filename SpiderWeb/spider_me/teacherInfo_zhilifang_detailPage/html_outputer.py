@@ -24,8 +24,9 @@ class HtmlOutputer(object):
                          ''.join(str(data['node_NumKeJi'])) + "#" + ''.join(str(data['node_Published2017'])) + "#" +
                          ''.join(str(data['node_Published2016'])) + "#" + ''.join(str(data['node_Published2015'])) + "#" +
                          ''.join(str(data['node_Published2014'])) + "#" + ''.join(str(data['node_Published2013'])) + "#" +
-                         ''.join(data['node_PianShuPerJiGou']) +
-                         '\n')
+                         ''.join(data['node_PianShuPerJiGou']) + "#" + ''.join(data['node_PianShuPerChuanMei']) + "#" +
+                         ''.join(data['node_Character'])+ "#" + ''.join(data['node_gongzhiJG']) + "#" +
+                         ''.join(data['node_ziZhu']) + '\n')
         fout.close()
 
     def reset(self):
