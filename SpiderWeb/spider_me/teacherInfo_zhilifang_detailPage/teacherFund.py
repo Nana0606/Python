@@ -13,7 +13,7 @@ grade_number = [0, 0, 0, 0, 0]
 total_has_ziZhu = 0
 
 def isProvince(fund):
-    city = ["上海市","重庆市","北京市","深圳市","省","自治区"]
+    city = ["上海市", "重庆市", "北京市", "深圳市", "省", "自治区"]
     for i in city:
         if i in fund:
             return "true"
