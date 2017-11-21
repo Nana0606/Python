@@ -1,3 +1,5 @@
+本部分内容来自：https://github.com/jgzquanquan/spyder/blob/master/zhilifang.py
+
 #智立方爬取某一老师的相关的科研人员信息
 import re
 from urllib import parse
