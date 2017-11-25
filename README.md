@@ -52,4 +52,17 @@ output.html：输出文件，输出抓取的数据内容
 文件中html_downloader.py、html_outputer.py、html_parser.py、spider_main.py都是代码文件，output.txt是输出文件，其他文件是一些小点的测试文件，不用看
 
 
+## ScrapyTest
+主要是爬虫抓取程序，使用了Scrapy这个爬虫框架，这个框架中好多功能，比如并发线程等都已经被封装好了。
+
+具体操作见文档：http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/tutorial.html
+
+## dataHandle
+一些数据的处理程序。
+MapHandle.py主要是将数据库中的已有信息更新id，没有信息的教师增加一条新的记录。
+
+
+
+
+
 
